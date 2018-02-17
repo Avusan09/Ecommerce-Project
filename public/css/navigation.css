@@ -1,0 +1,85 @@
+/*Navigation top changes*/
+.top-navigation
+{
+    height:32px;
+    line-height: 30px;
+    background-color:  white;
+}
+
+.nav-top i{
+    line-height: 32px !important;
+    height: auto !important;
+}
+
+.lipad li
+{
+    padding-right: 20px;
+}
+
+
+/*Navigation search changes*/
+
+
+.brand-logo
+{
+    width: 10%;
+
+}
+
+
+.logo-image
+{
+    height: 100%;
+    width: 100%;
+    padding-left: 50px;
+}
+
+.nav-ul
+{
+    padding-top: 10px;
+
+}
+
+nav ul a
+{
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    font-size: 1rem;
+    color: black;
+    display: block;
+    padding: 0 15px;
+    cursor: pointer;
+}
+
+
+
+/*Navigation search Mini changes*/
+
+.search-navigation-mini
+{
+
+    background-color: white;
+    font-size: 24px;
+    height: 100px;
+
+
+}
+
+
+.logo-image-mini
+{
+    height: 15%;
+    width: 200%;
+}
+
+/*.dropdown-content li > a{*/
+/*font-size: 16px;*/
+/*color: black !important;*/
+/*display: block;*/
+/*line-height: 22px;*/
+/*padding: 14px 16px;*/
+/*}*/
+
+
+
+

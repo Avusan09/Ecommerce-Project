@@ -1,0 +1,58 @@
+.wprimaryb
+{
+    background-color: #e65100;
+}
+
+.wprimary{
+    color:#e65100
+}
+
+.carousel .carousel-item > img {
+    width: 100%;
+    height: 80vh;
+}
+
+.preloader-background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.featured-images
+{
+    max-height: 200px;
+    width: 100%;
+    height: 200px;
+    padding: 20px;
+}
+
+.side-titles> .card-content > .card-title
+{
+    height: 200px;
+
+
+}
+.no-gutter{
+    padding:0px !important;
+}
+
+.small1
+{
+    height: 330px;
+}
+
+.title
+{
+    font-size: 24px;
+    color:white !important;
+    padding: 20px;
+    font-weight: 900;
+}
